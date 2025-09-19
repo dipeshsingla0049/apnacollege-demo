@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Dipesh Singla
+Author - Dipesh Singla (NST)
